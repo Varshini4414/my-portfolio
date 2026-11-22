@@ -159,7 +159,7 @@
   const portraitPlaceholderCaption = document.getElementById("portraitPlaceholderCaption");
   const portraitSources = {
     recruiter: { image: "assets/profile-professional.jpg", alt: "Professional portrait of Varshini S", fallbackCaption: "PROFESSIONAL PHOTO\nassets/profile-professional.jpg" },
-    curious: { image: "", alt: "Curious-mode portrait placeholder for Varshini S", fallbackCaption: "ADD CURIOUS PHOTO\nassets/profile-casual.jpg" }
+    curious: { image: "assets/profile-casual.jpg", alt: "Curious-mode portrait placeholder for Varshini S", fallbackCaption: "ADD CURIOUS PHOTO\nassets/profile-casual.jpg" }
   };
 
   const copyByMode = {
